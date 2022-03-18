@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9NTuHR0zWIsMplwl7blJWTIA9VNmA+7suCRne/c5YnPWcN90cnTPHrYc6vzaEfnULyV1dzu111ijbIU3bEu2A==",
+  "success": true,
+  "projectFilePath": "C:\\mobile\\web-browser\\web-browser\\web-browser\\web-browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uczeń-14\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Uczeń-14\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Uczeń-14\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uczeń-14\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Uczeń-14\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="web_browser.MainPage">
+
+    <StackLayout>
+     
+<Button Text="up" Clicked="Button_Clicked"/>
+        <Image x:Name="img" Source="https://img.icons8.com/office/344/conference-call.png" IsVisible="True"/>
+<Button Text="down" Clicked="Button_Clicked_1" />
+        <Label x:Name="dab"></Label>
+       
+    </StackLayout>
+
+</ContentPage>

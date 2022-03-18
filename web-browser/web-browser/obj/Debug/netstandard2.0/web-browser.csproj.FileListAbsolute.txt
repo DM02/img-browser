@@ -1,0 +1,15 @@
+C:\mobile\web-browser\web-browser\web-browser\bin\Debug\netstandard2.0\web-browser.deps.json
+C:\mobile\web-browser\web-browser\web-browser\bin\Debug\netstandard2.0\web-browser.dll
+C:\mobile\web-browser\web-browser\web-browser\bin\Debug\netstandard2.0\web-browser.pdb
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.csproj.AssemblyReference.cache
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.AssemblyInfoInputs.cache
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.AssemblyInfo.cs
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.csproj.CoreCompileInputs.cache
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\XamlC.stamp
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.dll
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\refint\web-browser.dll
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\web-browser.pdb
+C:\mobile\web-browser\web-browser\web-browser\obj\Debug\netstandard2.0\ref\web-browser.dll
